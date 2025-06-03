@@ -7,7 +7,7 @@ Acest repository conține un exemplu de proiect didactic realizat în cadrul clu
 ## Conținut
 
 - `main.cpp` – cod simplu pentru un robot VEX controlat autonom
-- `schema_robot.png` – imagine reprezentativă cu robotul echipei
+- `Picture22.png` – imagine reprezentativă cu robotul echipei
   
 
 ## Autor
